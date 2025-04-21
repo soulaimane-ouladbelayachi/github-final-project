@@ -6,9 +6,9 @@ Input:
 
    <b>p</b>, principal amount
    
-   t, time period in years
+   <b>t</b>, time period in years
    
-   r, annual rate of interest
+   <b>r</b>, annual rate of interest
    
 Output
 
