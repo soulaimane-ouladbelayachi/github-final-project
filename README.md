@@ -4,7 +4,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 Input:
 
-   p, principal amount
+   <b>p</b>, principal amount
    
    t, time period in years
    
